@@ -6,8 +6,7 @@ Willkommen in meinem kleinen Erfahrungsprojekt rund um meinen **Hyundai Tucson P
 Ich möchte hier meine **Erfahrungen, Verbräuche, Eindrücke und Tipps** zum Auto teilen.  
 Ziel ist es, realistische Einblicke in Alltag, Kosten und Nutzung eines PHEV zu geben – ohne Marketing, einfach aus Fahrersicht.
 
-<p align="center"><img src="ressources/charging-tucson.jpg" height="auto" width="350"></p>
----
+<p align="center"><img src="ressources/charging-tucson.jpg" height="auto" width="450"></p>
 
 ## 🔍 Hintergrund
 
@@ -36,7 +35,7 @@ Der Wechsel erfolgte, um ein moderneres Fahrzeug mit besserer Ausstattung und te
 ## 🏙️ Infrastruktur & Laden allgemein
 
 Ich lebe zur Miete, **Zuhause laden ist leider nicht möglich**.  
-Die öffentliche Ladeinfrastruktur in meiner Stadt (soll ich die hier nennen?) ist **okay, aber nicht überragend**.
+Die öffentliche Ladeinfrastruktur in meiner Stadt ist **okay, aber nicht überragend**.
 
 - **EnBW Mobility+** kostet aktuell rund **0,70 €/kWh**, was das öffentliche Laden teuer macht.  
 - **Günstige Ladepunkte** zu finden, ist mühsam – besonders, wenn man keine feste Wallbox nutzen kann.  
