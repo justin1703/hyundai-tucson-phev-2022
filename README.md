@@ -6,7 +6,7 @@ Willkommen in meinem kleinen Erfahrungsprojekt rund um meinen **Hyundai Tucson P
 Ich möchte hier meine **Erfahrungen, Verbräuche, Eindrücke und Tipps** zum Auto teilen.  
 Ziel ist es, realistische Einblicke in Alltag, Kosten und Nutzung eines PHEV zu geben – ohne Marketing, einfach aus Fahrersicht.
 
-<p align="center"><img src="/resources/charging-tucson.jpg" height="auto" width="350"></p>
+<p align="center"><img src="ressources/charging-tucson.jpg" height="auto" width="350"></p>
 ---
 
 ## 🔍 Hintergrund
