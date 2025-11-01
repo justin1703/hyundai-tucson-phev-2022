@@ -74,11 +74,43 @@ Während der **5 Jahre Neuwagengarantie** habe ich **Bluelink Plus** kostenlos v
 
 ---
 
-## ⚙️ Fazit bisher
+## ✅ Pro & Contra
 
-Insgesamt bin ich **sehr zufrieden**:  
-- Die Kombination aus **Elektroantrieb und 180 PS Turbo-Benziner** funktioniert hervorragend.  
-- Der Tucson fährt sich ruhig, kraftvoll und komfortabel.  
-- Auf längeren Strecken ist der Verbrauch erwartungsgemäß höher, aber im Alltag sehr effizient.
+### **Pro**
+
+**Qualität & Verarbeitung**  
+- Gute bis sehr gute Verarbeitung im Innenraum; Materialien fühlen sich wertig an, kein Premium, aber solide.  
+- Rückfahrkamera liefert klare Bilder auch bei Dunkelheit.  
+- Sitze hinten in der Neigung verstellbar – angenehmes Komfortfeature.  
+
+**Fahrverhalten & Antrieb**  
+- Sehr guter Fahrkomfort für ein 1,9‑Tonnen-Fahrzeug.  
+- Sanftes Schaltverhalten; Übergänge kaum spürbar.  
+- Hohe Systemleistung (265 PS) sorgt für ausreichend Power.  
+
+**Elektrik & Konnektivität**  
+- Gute elektrische Reichweite im Alltag: 50–55 km.  
+- Bluelink App funktioniert zuverlässig und ist intuitiv.  
+- Infotainment reagiert flüssig, stabile Konnektivität, guter Bildschirm.  
+
+**Sonstiges**  
+- 5 Jahre Neuwagengarantie.  
+
+---
+
+### **Contra**
+
+**Fahrverhalten & Schaltung**  
+- Schaltwippen funktionieren nur eingeschränkt; selbst im Sportmodus springt die Automatik gelegentlich zurück auf D.  
+
+**Qualität & Verarbeitung**  
+- Folie am D-Schalter löst sich teilweise und bildet Luftblasen.  
+- Türen lassen leichte Außengeräusche durch; Wind, Abrollgeräusche und Regen sind hörbar.  
+
+**Infotainment & Bedienung**  
+- Menüführung ist verschachtelt; initial etwas verwirrend.  
+
+**Praktikabilität**  
+- Akku reduziert den Kofferraum-Stauraum etwas (unten), oben bleibt ausreichend Platz.
 
 ---
