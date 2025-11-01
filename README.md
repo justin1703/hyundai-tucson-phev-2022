@@ -1,4 +1,4 @@
-# 🚗 Meine Erfahrungen mit dem Hyundai Tucson Plug-in Hybrid (PHEV) 2022
+## Meine Erfahrungen mit dem Hyundai Tucson Plug-in Hybrid (PHEV) 2022
 
 Willkommen in meinem kleinen Erfahrungsprojekt rund um meinen **Hyundai Tucson Plug-in Hybrid**  
 (Modelljahr 2022, Erstzulassung 05/2022, aktuell ~35.000 km – Stand: Oktober 2025).
@@ -14,7 +14,7 @@ Ziel ist es, realistische Einblicke in Alltag, Kosten und Nutzung eines PHEV zu 
 
 ---
 
-## 🔍 Hintergrund
+## Hintergrund
 
 Vor dem Tucson fuhr ich einen **Ford Focus Turnier (2019)**  
 mit dem **1.0-Liter Turbo-Benziner (85 PS)**.  
