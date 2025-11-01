@@ -22,11 +22,11 @@ Der Wechsel erfolgte, um ein moderneres Fahrzeug mit besserer Ausstattung und te
 
 ---
 
-## ⚡ Lade- und Verbrauchserfahrungen
+## ⚡ Lade- und Verbrauchserfahrungen der letzten 2500km
 
 - **Laden auf der Arbeit:**  
-  Ich kann dort sehr günstig laden – etwa **10 Cent/kWh**.  
-  Das macht das tägliche Laden finanziell sehr attraktiv.
+  - Ich kann dort sehr günstig laden – etwa **10 Cent/kWh** 
+  - dort ist das tägliche Laden finanziell sehr attraktiv
 
 - **Alltagsnutzung (ca. 1500 km innerorts + Landstraße):**  
   - Fahrprofil: 2× pro Woche 25 km hin und zurück über Landstraße  
@@ -69,7 +69,7 @@ Während der **5 Jahre Neuwagengarantie** habe ich **Bluelink Plus** kostenlos v
 <p align="center">
   <img src="ressources/Bluelink-Integration.png" width="500" alt="Bluelink Integration">
   <br>
-  <sub><em>Bluelink Integration zum Abruffen der Reichweite</em></sub>
+  <sub><em>Bluelink Integration zum Abrufen der Reichweite</em></sub>
 </p>
 
 ---
