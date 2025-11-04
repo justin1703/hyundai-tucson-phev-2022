@@ -50,6 +50,18 @@ Aktuell lohnt sich das Laden **nur auf der Arbeit** wirklich.
 
 ---
 
+## Garantie
+
+| Garantieart | Laufzeit / Bedingungen |
+|--------------|------------------------|
+| **Fahrzeug-Herstellergarantie** | 5 Jahre ohne Kilometerbegrenzung |
+| **Hochvolt-Batterie-Garantie** | 8 Jahre oder bis 160.000 km |
+| **Garantie gegen Durchrostung von innen nach außen** | 12 Jahre ohne Kilometerbegrenzung |
+| **Lackgarantie** | 5 Jahre ohne Kilometerbegrenzung |
+| **Mobilitätsgarantie** | 5 Jahre gemäß Garantie- und Mobilitätsbedingungen |
+
+---
+
 ## 🏡 Integration in Home Assistant
 
 Ich nutze **Home Assistant**, um mein Auto besser ins Smart Home einzubinden.  
