@@ -22,6 +22,22 @@ I switched to have a more modern vehicle with better equipment and partial elect
 
 ---
 
+## Overview
+
+| Feature                        | Specification                                          |
+|-------------------------------|--------------------------------------------------------|
+| Power output                  | Petrol: 180 HP (118 kW) <br>Electric: 98 HP (72 kW) <br>System: ~265 HP (195 kW) |
+| Torque (system)               | 367 Nm |
+| Battery capacity              | 13.8 kWh |
+| Base price                    | From ~€42,350 (Germany)                               |
+| Drive                         | All‑wheel drive (AWD)                                 |
+| Charging capability           | AC only, single‑phase up to 32 A                      |
+| Transmission type             | 6‑speed automatic transmission |
+| Electric range (realistic)    | ~50‑55 km                                             |
+| Production period             | May 2021 – May 2024 for this generation PHEV AWD |
+
+---
+
 ## ⚡ Charging and Consumption Experience over the Last 2500 km
 
 - **Charging at work:**  
