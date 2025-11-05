@@ -1,128 +1,128 @@
-# Meine Erfahrungen mit dem Hyundai Tucson Plug-in Hybrid (PHEV) 2022
+# My Experiences with the Hyundai Tucson Plug-in Hybrid (PHEV) 2022
 
-Willkommen in meinem kleinen Erfahrungsprojekt rund um meinen **Hyundai Tucson Plug-in Hybrid**  
-(Modelljahr 2022, Erstzulassung 05/2022, aktuell ~35.000 km – Stand: Oktober 2025).
+Welcome to my small personal project about my **Hyundai Tucson Plug-in Hybrid**  
+(model year 2022, first registration 05/2022, currently ~35,000 km – as of October 2025).
 
-Ich möchte hier meine **Erfahrungen, Verbräuche, Eindrücke und Tipps** zum Auto teilen.  
-Ziel ist es, realistische Einblicke in Alltag, Kosten und Nutzung eines PHEV zu geben – ohne Marketing, einfach aus Fahrersicht.
+Here I’d like to share my **experiences, consumption data, impressions, and tips** about the car.  
+The goal is to provide realistic insights into everyday life, costs, and usage of a PHEV – without marketing, just from a driver’s point of view.
 
 <p align="center">
-  <img src="ressources/charging-tucson.jpg" width="500" alt="Hyundai Tucson PHEV beim Laden">
+  <img src="ressources/charging-tucson.jpg" width="500" alt="Hyundai Tucson PHEV charging">
   <br>
-  <sub><em>Mein Hyundai Tucson Plug-in Hybrid beim Laden (Oktober 2025)</em></sub>
+  <sub><em>My Hyundai Tucson Plug-in Hybrid while charging (October 2025)</em></sub>
 </p>
 
 ---
 
-## Hintergrund
+## Background
 
-Vor dem Tucson fuhr ich einen **Ford Focus Turnier (2019)**  
-mit dem **1.0-Liter Turbo-Benziner (85 PS)**.  
-Der Wechsel erfolgte, um ein moderneres Fahrzeug mit besserer Ausstattung und teilweiser Elektrifizierung zu haben.
-
----
-
-## ⚡ Lade- und Verbrauchserfahrungen der letzten 2500km
-
-- **Laden auf der Arbeit:**  
-  - Ich kann dort sehr günstig laden – etwa **10 Cent/kWh** 
-  - dort ist das tägliche Laden finanziell sehr attraktiv
-
-- **Alltagsnutzung (ca. 1500 km innerorts + Landstraße):**  
-  - Fahrprofil: 2× pro Woche 25 km hin und zurück über Landstraße  
-  - Regelmäßiges Laden (2× pro Woche, gelegentlich zusätzlich)  
-  - **Durchschnittsverbrauch:** ca. **5,6 Liter / 100 km**
-
-- **Langstrecke (zusätzlich ~1000 km Autobahn mit 150–200 km/h):**  
-  - Verbrauch stieg auf **6,7 Liter / 100 km**
+Before the Tucson, I drove a **Ford Focus Wagon (2019)**  
+with a **1.0-liter turbo gasoline engine (85 HP)**.  
+I switched to have a more modern vehicle with better equipment and partial electrification.
 
 ---
 
-## 🏙️ Infrastruktur & Laden allgemein
+## ⚡ Charging and Consumption Experience over the Last 2500 km
 
-Ich lebe zur Miete, **Zuhause laden ist leider nicht möglich**.  
-Die öffentliche Ladeinfrastruktur in meiner Stadt ist **okay, aber nicht überragend**.
+- **Charging at work:**  
+  - I can charge there very cheaply – about **€0.10/kWh**  
+  - which makes daily charging financially very attractive
 
-- **EnBW Mobility+** kostet aktuell rund **0,70 €/kWh**, was das öffentliche Laden teuer macht.  
-- **Günstige Ladepunkte** zu finden, ist mühsam – besonders, wenn man keine feste Wallbox nutzen kann.  
+- **Everyday driving (approx. 1500 km city + rural roads):**  
+  - Driving pattern: twice a week 25 km each way on country roads  
+  - Regular charging (twice a week, occasionally additional)  
+  - **Average consumption:** approx. **5.6 L / 100 km**
 
-Aktuell lohnt sich das Laden **nur auf der Arbeit** wirklich.
-
----
-
-## Garantie
-
-| Garantieart | Laufzeit / Bedingungen |
-|--------------|------------------------|
-| **Fahrzeug-Herstellergarantie** | 5 Jahre ohne Kilometerbegrenzung |
-| **Hochvolt-Batterie-Garantie** | 8 Jahre oder bis 160.000 km |
-| **Garantie gegen Durchrostung von innen nach außen** | 12 Jahre ohne Kilometerbegrenzung |
-| **Lackgarantie** | 5 Jahre ohne Kilometerbegrenzung |
-| **Mobilitätsgarantie** | 5 Jahre gemäß Garantie- und Mobilitätsbedingungen |
+- **Long-distance driving (additional ~1000 km highway at 150–200 km/h):**  
+  - Consumption increased to **6.7 L / 100 km**
 
 ---
 
-## 🏡 Integration in Home Assistant
+## 🏙️ Infrastructure & General Charging
 
-Ich nutze **Home Assistant**, um mein Auto besser ins Smart Home einzubinden.  
-Dazu verwende ich die **Kia Uvo / Hyundai Bluelink Integration** aus HACS.
+I live in a rented apartment, so **charging at home is unfortunately not possible**.  
+The public charging infrastructure in my city is **okay, but not great**.
 
-Während der **5 Jahre Neuwagengarantie** habe ich **Bluelink Plus** kostenlos verfügbar.  
-Über diese Schnittstelle kann ich z. B.:
+- **EnBW Mobility+** currently costs around **€0.70/kWh**, making public charging quite expensive.  
+- Finding **cheap charging points** is difficult – especially if you can’t use a private wallbox.  
 
-- den aktuellen **Ladezustand** und **Reichweite** abrufen,  
-- einige Befehle **aus der Ferne ausführen**,  
-- **Standortdaten** und **Fahrtenhistorie** einsehen.
+At the moment, **charging at work** is the only really worthwhile option.
 
-> 💡 **Hinweis:**  
-> Die Authentifizierung über E-Mail & Passwort funktionierte bei mir nicht zuverlässig.  
-> Stattdessen habe ich mir einen **API-Token generieren lassen**, um die Verbindung stabil herzustellen.
+---
+
+## Warranty
+
+| Warranty Type | Duration / Conditions |
+|----------------|------------------------|
+| **Vehicle Manufacturer Warranty** | 5 years with no mileage limit |
+| **High-Voltage Battery Warranty** | 8 years or up to 160,000 km |
+| **Anti-Perforation (rust-through) Warranty** | 12 years with no mileage limit |
+| **Paint Warranty** | 5 years with no mileage limit |
+| **Mobility Warranty** | 5 years according to warranty and mobility terms |
+
+---
+
+## 🏡 Integration with Home Assistant
+
+I use **Home Assistant** to better integrate my car into my smart home setup.  
+For this, I use the **Kia Uvo / Hyundai Bluelink Integration** from HACS.
+
+During the **5-year new car warranty**, I have **Bluelink Plus** available for free.  
+Through this interface, I can, for example:
+
+- retrieve the current **battery level** and **range**,  
+- execute some **remote commands**,  
+- view **location data** and **trip history**.
+
+> 💡 **Note:**  
+> Authentication via email & password didn’t work reliably for me.  
+> Instead, I generated an **API token** to establish a stable connection.
 
 <p align="center">
   <img src="ressources/Bluelink-Integration.png" width="500" alt="Bluelink Integration">
   <br>
-  <sub><em>Bluelink Integration zum Abrufen der Reichweite</em></sub>
+  <sub><em>Bluelink integration showing range information</em></sub>
 </p>
 
 ---
 
-## ✅ Pro & Contra
+## ✅ Pros & Cons
 
-### **Pro**
+### **Pros**
 
-**Qualität & Verarbeitung**  
-- Gute bis sehr gute Verarbeitung im Innenraum; Materialien fühlen sich wertig an, kein Premium, aber solide.  
-- Rückfahrkamera liefert klare Bilder auch bei Dunkelheit.  
-- Sitze hinten in der Neigung verstellbar – angenehmes Komfortfeature.  
+**Build Quality & Interior**  
+- Good to very good interior quality; materials feel solid and well-assembled, not premium, but sturdy.  
+- Rearview camera delivers clear images even in the dark.  
+- Rear seats have adjustable backrest angles – a nice comfort feature.  
 
-**Fahrverhalten & Antrieb**  
-- Sehr guter Fahrkomfort für ein 1,9‑Tonnen-Fahrzeug.  
-- Sanftes Schaltverhalten; Übergänge kaum spürbar.  
-- Hohe Systemleistung (265 PS) sorgt für ausreichend Power.  
+**Driving & Powertrain**  
+- Very comfortable ride for a 1.9-ton vehicle.  
+- Smooth shifting; transitions are barely noticeable.  
+- High system power (265 HP) provides plenty of performance.  
 
-**Elektrik & Konnektivität**  
-- Gute elektrische Reichweite im Alltag: 50–55 km.  
-- Bluelink App funktioniert zuverlässig und ist intuitiv.  
-- Infotainment reagiert flüssig, stabile Konnektivität, guter Bildschirm.  
+**Electronics & Connectivity**  
+- Good electric range for daily use: 50–55 km.  
+- Bluelink app works reliably and is intuitive.  
+- Infotainment responds quickly, stable connection, good display quality.  
 
-**Sonstiges**  
-- 5 Jahre Neuwagengarantie.  
+**Other**  
+- 5-year new car warranty.  
 
 ---
 
-### **Contra**
+### **Cons**
 
-**Fahrverhalten & Schaltung**  
-- Schaltwippen funktionieren nur eingeschränkt; selbst im Sportmodus springt die Automatik gelegentlich zurück auf D.  
+**Driving & Transmission**  
+- Paddle shifters only work partially; even in sport mode, the gearbox sometimes switches back to “D”.  
 
-**Qualität & Verarbeitung**  
-- Folie am D-Schalter löst sich teilweise und bildet Luftblasen.  
-- Türen lassen leichte Außengeräusche durch; Wind, Abrollgeräusche und Regen sind hörbar.  
+**Build Quality & Materials**  
+- The film on the D-button is partially peeling and forming air bubbles.  
+- Doors let in some outside noise; wind, road, and rain sounds are noticeable.  
 
-**Infotainment & Bedienung**  
-- Menüführung ist verschachtelt; initial etwas verwirrend.  
+**Infotainment & Usability**  
+- Menu structure is complex; initially somewhat confusing.  
 
-**Praktikabilität**  
-- Akku reduziert den Kofferraum-Stauraum etwas (unten), oben bleibt ausreichend Platz.
+**Practicality**  
+- Battery slightly reduces trunk space (bottom area), though there’s still enough room above.
 
 ---
