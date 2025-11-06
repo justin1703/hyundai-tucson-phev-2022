@@ -27,7 +27,7 @@ I switched to have a more modern vehicle with better equipment and partial elect
 | Feature                        | Specification                                          |
 |-------------------------------|--------------------------------------------------------|
 | Power output                  | Petrol: 180 HP (118 kW) <br>Electric: 98 HP (72 kW) <br>System: ~265 HP (195 kW) |
-| Torque (system)               | 367 Nm |
+| Torque (system)               | 350 Nm |
 | Battery capacity              | 13.8 kWh |
 | Base price                    | From ~€42,350 (Germany)                               |
 | Drive                         | All‑wheel drive (AWD)                                 |
