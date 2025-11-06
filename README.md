@@ -16,7 +16,7 @@ The goal is to provide realistic insights into everyday life, costs, and usage o
 
 ## Background
 
-Before the Tucson, I drove a **Ford Focus Wagon (2019)**  
+Before the Tucson, I drove a **Ford Focus (2019)**  
 with a **1.0-liter turbo gasoline engine (85 HP)**.  
 I switched to have a more modern vehicle with better equipment and partial electrification.
 
