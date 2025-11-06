@@ -54,7 +54,7 @@ I switched to have a more modern vehicle with better equipment and partial elect
 
 ---
 
-## 🏙️ Infrastructure & General Charging
+## Infrastructure & General Charging
 
 I live in a rented apartment, so **charging at home is unfortunately not possible**.  
 The public charging infrastructure in my city is **okay, but not great**.
@@ -78,7 +78,7 @@ At the moment, **charging at work** is the only really worthwhile option.
 
 ---
 
-## 🏡 Integration with Home Assistant
+## Integration with Home Assistant
 
 I use **Home Assistant** to better integrate my car into my smart home setup.  
 For this, I use the **Kia Uvo / Hyundai Bluelink Integration** from HACS.
@@ -90,7 +90,7 @@ Through this interface, I can, for example:
 - execute some **remote commands**,  
 - view **location data** and **trip history**.
 
-> 💡 **Note:**  
+> **Note:**  
 > Authentication via email & password didn’t work reliably for me.  
 > Instead, I generated an **API token** to establish a stable connection.
 
@@ -102,7 +102,7 @@ Through this interface, I can, for example:
 
 ---
 
-## ✅ Pros & Cons
+## Pros & Cons
 
 ### **Pros**
 
